@@ -1,0 +1,45 @@
+[
+    {
+        "id":"GC5PQJ8",
+        "name": "Zlata stezka Ceskeho raje",
+        "coords": [50.5096833, 15.0281667],
+        "polyline_coords": [[50.5096833, 15.0281667], [50.4776833, 15.2775833]],
+        "url": "https://coord.info/GC5PQJ8",
+        "type": "tradi",
+        "length": 100,
+        "total_caches": 25,
+        "duration_min": 3, 
+        "duration_max": 5,
+        "country": "Czech",
+        "photo": "./img/photoGC5PQJ8.jpg",
+        "article": false
+    },
+    {
+        "id":"GC3N0P0",
+        "name": "Rokytna",
+        "coords": [49.0710833, 15.9397667],
+        "polyline_coords": [[49.0710833, 15.9397667],[49.0281333, 16.3014500]],
+        "url": "https://coord.info/GC3N0P0",
+        "type": "multi",
+        "length": 60,
+        "duration_min": 2, 
+        "duration_max": 3,
+        "country": "Czech",
+        "photo": "./img/photoGC3N0P0.jpg",
+        "article": false 
+    },
+    {
+        "id":"GC1KVVN",
+        "name": "Krkonose Crossing",
+        "coords": [50.7713167, 15.4513000],
+        "polyline_coords": [[50.7713167, 15.4513000],[50.7302333, 15.8316167]],
+        "url": "https://coord.info/GC1KVVN",
+        "type": "multi",
+        "length": 60,
+        "duration_min": 2, 
+        "duration_max": 3,
+        "country": "Czech",
+        "photo": "img/photoGC1KVVN.jpg",
+        "article": false
+    }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "id": "GC5PQJ8",
+    "name": "Zlata stezka Ceskeho raje",
+    "coords": [50.5096833, 15.0281667],
+    "polyline_coords": [
+      [50.5096833, 15.0281667],
+      [50.4776833, 15.2775833]
+    ],
+    "url": "https://coord.info/GC5PQJ8",
+    "type": "multi",
+    "length": 100,
+    "duration_min": 3,
+    "duration_max": 5,
+    "country": "Czech",
+    "photo": "./img/photoGC5PQJ8.jpg",
+    "article": false
+  },
+  {
+    "id": "GC3N0P0",
+    "name": "Rokytna",
+    "coords": [49.0710833, 15.9397667],
+    "polyline_coords": [
+      [49.0710833, 15.9397667],
+      [49.0281333, 16.30145]
+    ],
+    "url": "https://coord.info/GC3N0P0",
+    "type": "multi",
+    "length": 60,
+    "duration_min": 2,
+    "duration_max": 3,
+    "country": "Czech",
+    "photo": "./img/photoGC3N0P0.jpg",
+    "article": false
+  },
+  {
+    "id": "GC1KVVN",
+    "name": "Krkonose Crossing",
+    "coords": [50.7713167, 15.4513],
+    "polyline_coords": [
+      [50.7713167, 15.4513],
+      [50.7302333, 15.8316167]
+    ],
+    "url": "https://coord.info/GC1KVVN",
+    "type": "multi",
+    "length": 60,
+    "duration_min": 2,
+    "duration_max": 3,
+    "country": "Czech",
+    "photo": "img/photoGC1KVVN.jpg",
+    "article": false
+  },
+  {
+    "id": "GC33DC9",
+    "name": "Thayatalweg",
+    "coords": [48.6734667, 14.7788833],
+    "polyline_coords": [
+      [48.6734667, 14.7788833],
+      [48.8606333, 15.7779333]
+    ],
+    "url": "https://coord.info/GC33DC9",
+    "type": "multi",
+    "length": 178,
+    "duration_min": 5,
+    "duration_max": 8,
+    "country": "Austria",
+    "photo": "img/photoGC33DC9.jpg",
+    "article": false
+  },
+  {
+    "id": "GC405VA",
+    "name": "Nordwaldkammweg",
+    "coords": [48.76495, 13.8383833],
+    "polyline_coords": [
+      [48.76495, 13.8383833],
+      [48.5915333, 14.73765]
+    ],
+    "url": "https://coord.info/GC405VA",
+    "type": "multi",
+    "length": 145,
+    "duration_min": 4,
+    "duration_max": 7,
+    "country": "Austria",
+    "photo": "img/photoGC405VA.jpg",
+    "article": false
+  },
+  {
+    "id": "GC2YTYJ",
+    "name": "Krasami Beskyd",
+    "coords": [49.3999833, 18.4072333],
+    "polyline_coords": [
+      [49.3999833, 18.4072333],
+      [49.4922333, 18.2823]
+    ],
+    "url": "https://coord.info/GC2YTYJ",
+    "type": "multi",
+    "length": 120,
+    "duration_min": 3,
+    "duration_max": 5,
+    "country": "Czech",
+    "photo": "img/photoGC2YTYJ.jpg",
+    "article": false
+  },
+  {
+    "id": "GC50TJ9",
+    "name": "Serra de Tramuntana",
+    "coords": [39.5464833, 2.39005],
+    "polyline_coords": [
+      [39.5464833, 2.39005],
+      [39.8513369, 2.9271386]
+    ],
+    "url": "https://coord.info/GC50TJ9",
+    "type": "multi",
+    "length": 150,
+    "duration_min": 4,
+    "duration_max": 6,
+    "country": "Spain",
+    "photo": "img/photoGC50TJ9.jpg",
+    "article": false
+  },
+  {
+    "id": "GC4Y0DR",
+    "name": "Toulani Toulavou",
+    "coords": [49.4094167, 14.6477167],
+    "polyline_coords": [
+      [49.4094167, 14.6477167],
+      [49.3143667, 14.4901667]
+    ],
+    "url": "https://coord.info/GC4Y0DR",
+    "type": "multi",
+    "length": 28,
+    "duration_min": 1,
+    "duration_max": 1,
+    "country": "Czech",
+    "photo": "img/photoGC4Y0DR.jpg",
+    "article": false
+  },
+
+  {
+    "id": "GC7T9YA",
+    "name": "Der Weg entlang der Lainsitz",
+    "coords": [48.5956333, 14.7371333],
+    "polyline_coords": [
+      [48.5956333, 14.7371333],
+      [48.9756833, 15.01005]
+    ],
+    "url": "https://coord.info/GC7T9YA",
+    "type": "multi",
+    "length": 85,
+    "duration_min": 3,
+    "duration_max": 4,
+    "country": "Austria",
+    "photo": "img/photoGC7T9YA.jpg",
+    "article": false
+  },
+  {
+    "id": "GC1BWNK",
+    "name": "Jizera",
+    "coords": [50.7714, 15.3807],
+    "polyline_coords": [
+      [50.7714, 15.3807],
+      [50.8896333, 15.27285]
+    ],
+    "url": "https://coord.info/GC1BWNK",
+    "type": "multi",
+    "length": 33,
+    "duration_min": 1,
+    "duration_max": 1,
+    "country": "Czech",
+    "photo": "img/photoGC1BWNK.jpg",
+    "article": false
+  },
+  {
+    "id": "GC1BWNQ",
+    "name": "Jizera - bonus",
+    "coords": [50.8770667, 15.2844833],
+    "polyline_coords": [
+      [50.8770667, 15.2844833],
+      [50.7764667, 15.3941]
+    ],
+    "url": "https://coord.info/GC1BWNQ",
+    "type": "mystery",
+    "length": 33,
+    "duration_min": 1,
+    "duration_max": 1,
+    "country": "Czech",
+    "photo": "img/photoGC1BWNQ.jpg",
+    "article": false
+  },
+  {
+    "id": "GC3K3TP",
+    "name": "Králický Sněžník - pěšky",
+    "coords": [50.1445, 16.7923333],
+    "polyline_coords": [
+      [50.1445, 16.7923333],
+      [50.1763, 16.8279667]
+    ],
+    "url": "https://coord.info/GC3K3TP",
+    "type": "multi",
+    "length": 30,
+    "duration_min": 1,
+    "duration_max": 1,
+    "country": "Czech",
+    "photo": "img/photoGC3K3TP.jpg",
+    "article": false
+  },
+
+  {
+    "id": "GC72VYR",
+    "name": "Krušnohorský Kvérunk",
+    "coords": [50.2755167, 12.3829167],
+    "polyline_coords": [
+      [50.2755167, 12.3829167],
+      [50.728, 13.8030833]
+    ],
+    "url": "https://coord.info/GC72VYR",
+    "type": "multi",
+    "length": 240,
+    "duration_min": 6,
+    "duration_max": 9,
+    "country": "Czech",
+    "photo": "img/photoGC72VYR.jpg",
+    "article": false
+  },
+  {
+    "id": "GC2Z944",
+    "name": "Přechod Brd",
+    "coords": [49.93135, 14.3018333],
+    "polyline_coords": [
+      [49.93135, 14.3018333],
+      [49.8099194, 13.9883883]
+    ],
+    "url": "https://coord.info/GC2Z944",
+    "type": "multi",
+    "length": 37,
+    "duration_min": 1,
+    "duration_max": 2,
+    "country": "Czech",
+    "photo": "img/photoGC2Z944.jpg",
+    "article": false
+  },
+
+  {
+    "id": "GC6M3N8",
+    "name": "Rychlebská divočina",
+    "coords": [50.439, 16.8928333],
+    "polyline_coords": [
+      [50.439, 16.8928333],
+      [50.24705, 17.0239167]
+    ],
+    "url": "https://coord.info/GC6M3N8",
+    "type": "multi",
+    "length": 50,
+    "duration_min": 2,
+    "duration_max": 3,
+    "country": "Czech",
+    "photo": "img/photoGC6M3N8.jpg",
+    "article": false
+  },
+  {
+    "id": "GC1JM9Y",
+    "name": "Šumavskými hvozdy",
+    "coords": [48.7143333, 13.9655],
+    "polyline_coords": [
+      [48.7143333, 13.9655],
+      [48.7809008, 13.8036881]
+    ],
+    "url": "https://coord.info/GC1JM9Y",
+    "type": "multi",
+    "length": 27,
+    "duration_min": 1,
+    "duration_max": 1,
+    "country": "Czech",
+    "photo": "img/photoGC1JM9Y.jpg",
+    "article": false
+  },
+  {
+    "id": "GC3Y235",
+    "name": "Vizovickými vrchy dolů",
+    "coords": [49.2158333, 18.0494333],
+    "polyline_coords": [
+      [49.2158333, 18.0494333],
+      [49.1576333, 17.77985]
+    ],
+    "url": "https://coord.info/GC3Y235",
+    "type": "multi",
+    "length": 33,
+    "duration_min": 1,
+    "duration_max": 2,
+    "country": "Czech",
+    "photo": "img/photoGC3Y235.jpg",
+    "article": false
+  },
+  {
+    "id": "GC3XYNR",
+    "name": "Vizovickými vrchy nahoru",
+    "coords": [49.15255, 17.7410333],
+    "polyline_coords": [
+      [49.15255, 17.7410333],
+      [49.2104667, 17.9875667]
+    ],
+    "url": "https://coord.info/GC3XYNR",
+    "type": "multi",
+    "length": 33,
+    "duration_min": 1,
+    "duration_max": 2,
+    "country": "Czech",
+    "photo": "img/photoGC3XYNR.jpg",
+    "article": false
+  },
+  {
+    "id": "GC3J5VD",
+    "name": "Wysoki Grzbiet",
+    "coords": [50.891, 15.2770333],
+    "polyline_coords": [
+      [50.891, 15.2770333],
+      [50.8574167, 15.40625]
+    ],
+    "url": "https://coord.info/GC3J5VD",
+    "type": "multi",
+    "length": 30,
+    "duration_min": 1,
+    "duration_max": 2,
+    "country": "Poland",
+    "photo": "img/photoGC3J5VD.jpg",
+    "article": false
+  },
+  {
+    "id": "GC4V0DV",
+    "name": "Železné hory",
+    "coords": [49.7123333, 15.7753],
+    "polyline_coords": [
+      [49.7123333, 15.7753],
+      [49.8905333, 15.5774833]
+    ],
+    "url": "https://coord.info/GC4V0DV",
+    "type": "multi",
+    "length": 52,
+    "duration_min": 2,
+    "duration_max": 3,
+    "country": "Czech",
+    "photo": "img/photoGC4V0DV.jpg",
+    "article": false
+  }
+]
